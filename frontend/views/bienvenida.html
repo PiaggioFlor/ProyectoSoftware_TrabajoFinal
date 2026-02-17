@@ -1,0 +1,36 @@
+<!-- views/bienvenida.html -->
+<div class="container mt-5 text-center">
+  <h2 class="text-white">Bienvenido al Sistema de Gestión de Proyectos</h2>
+  <h4 class="text-white mt-3" id="saludoUsuario">Hola, Usuario</h4>
+  <p class="text-white mt-4">Utilice el menú superior para crear, visualizar o editar sus proyectos.</p>
+  
+  <div class="row mt-5">
+    <div class="col-md-6 mb-3">
+      <div class="card bg-gris-suave p-4 hover-shadow" style="cursor: pointer;" onclick="cargarVista('crear-proyecto')">
+        <h5 class="text-white">
+          <i class="bi bi-plus-circle"></i> Crear Proyecto
+        </h5>
+        <p class="text-white-50">Inicie un nuevo proyecto en el sistema</p>
+      </div>
+    </div>
+    <div class="col-md-6 mb-3">
+      <div class="card bg-gris-suave p-4 hover-shadow" style="cursor: pointer;" onclick="cargarVista('mis-proyectos')">
+        <h5 class="text-white">
+          <i class="bi bi-folder"></i> Mis Proyectos
+        </h5>
+        <p class="text-white-50">Vea y gestione sus proyectos</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// Actualizar saludo con nombre de usuario
+document.addEventListener('DOMContentLoaded', function() {
+  const userName = localStorage.getItem('userName') || 'Usuario';
+  const saludoElement = document.getElementById('saludoUsuario');
+  if (saludoElement) {
+    saludoElement.textContent = `Hola, ${userName}`;
+  }
+});
+</script>

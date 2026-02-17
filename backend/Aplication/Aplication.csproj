@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Dtos\Requests\DecisionStepUpdateRequest.cs" />
+    <Compile Remove="Dtos\Requests\ProjectProposalCreateRequest.cs" />
+    <Compile Remove="Dtos\Requests\ProjectUpdateRequest.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="CustomExceptions\NewFile1.txt" />
+    <None Remove="Dtos\Requests\NewFile1.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+</Project>

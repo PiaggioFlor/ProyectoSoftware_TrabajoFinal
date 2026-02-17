@@ -1,0 +1,1047 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\dtos\\responses\\usersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\responses\\usersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\dtos\\requests\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\requests\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\usecase\\projectproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecase\\projectproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|solutionrelative:tp1-orm-piaggio_florencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\usecase\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecase\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\usecase\\projecttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecase\\projecttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\services\\iprojecttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\services\\iprojecttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\usecase\\areaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecase\\areaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\services\\iareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\services\\iareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\usecase\\approvalstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecase\\approvalstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\usecase\\approverroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecase\\approverroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\services\\iprojectproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\services\\iprojectproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|solutionrelative:tp1-orm-piaggio_florencia\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\services\\iapproverroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\services\\iapproverroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\services\\iapprovalstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\services\\iapprovalstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\commands\\iprojectapprovalstepcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\commands\\iprojectapprovalstepcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\querys\\projectproposalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\querys\\projectproposalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|solutionrelative:tp1-orm-piaggio_florencia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|solutionrelative:tp1-orm-piaggio_florencia\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|solutionrelative:tp1-orm-piaggio_florencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\dtos\\responses\\approvalstepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\responses\\approvalstepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\dtos\\responses\\projectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\responses\\projectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\querys\\iprojectproposalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\querys\\iprojectproposalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\dtos\\requests\\updateprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\requests\\updateprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\dtos\\requests\\updatesteprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\requests\\updatesteprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\dtos\\responses\\projectshortresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\responses\\projectshortresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\dtos\\responses\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\responses\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F269EAD9-8E0F-4C04-8578-741DD1262B0C}|Domain\\Domain.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\domain\\entities\\projectproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F269EAD9-8E0F-4C04-8578-741DD1262B0C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\projectproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F269EAD9-8E0F-4C04-8578-741DD1262B0C}|Domain\\Domain.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\domain\\entities\\projectapprovalstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F269EAD9-8E0F-4C04-8578-741DD1262B0C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\projectapprovalstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\efcoretransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\efcoretransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia\\xmlfile.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|solutionrelative:tp1-orm-piaggio_florencia\\xmlfile.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|solutionrelative:tp1-orm-piaggio_florencia\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|solutionrelative:tp1-orm-piaggio_florencia\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\querys\\projectapprovalstepquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\querys\\projectapprovalstepquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\command\\projectproposalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\command\\projectproposalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\command\\projectapprovalstepcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\command\\projectapprovalstepcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F269EAD9-8E0F-4C04-8578-741DD1262B0C}|Domain\\Domain.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\domain\\entities\\approvalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F269EAD9-8E0F-4C04-8578-741DD1262B0C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\approvalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\persistence\\..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistence\\..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{32CE9B5D-7DB6-46A2-9C1A-8FF062738DDE}|TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.csproj|solutionrelative:tp1-orm-piaggio_florencia\\tp1-orm-piaggio_florencia.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\customexceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\customexceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\customexceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\customexceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\customexceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\customexceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\dtos\\responses\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\responses\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\migrations\\20250518050442_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\migrations\\20250518050442_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\querys\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\querys\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\querys\\iprojecttypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\querys\\iprojecttypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\querys\\iprojectapprovalstepquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\querys\\iprojectapprovalstepquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\querys\\iareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\querys\\iareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\querys\\iapproverrolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\querys\\iapproverrolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\querys\\iapprovalstatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\querys\\iapprovalstatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\querys\\iapprovalrulequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\querys\\iapprovalrulequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\commands\\iprojectprojectproposalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\commands\\iprojectprojectproposalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\querys\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\querys\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\querys\\projecttypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\querys\\projecttypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\querys\\areaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\querys\\areaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\querys\\approverrolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\querys\\approverrolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\querys\\approvalstatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\querys\\approvalstatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\infraestructure\\querys\\approvalrulequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B677E6F-DD1D-4DE3-9791-6F081A19B306}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\querys\\approvalrulequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|c:\\users\\piagg\\downloads\\trabajo proyecto software\\reentrega-tp2 (1)\\tp1-piaggio_florencia\\tp1-piaggio_florencia\\tp1-orm-piaggio_florencia\\aplication\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6B8A1-3F92-4026-AA93-2E64A1E8FC16}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectProposalService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\ProjectProposalService.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCase\\ProjectProposalService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\ProjectProposalService.cs",
+              "RelativeToolTip": "Aplication\\UseCase\\ProjectProposalService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:28:59.178Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "TP1-ORM-Piaggio_Florencia\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "TP1-ORM-Piaggio_Florencia\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:19:06.394Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:27:15.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\UserService.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCase\\UserService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\UserService.cs",
+              "RelativeToolTip": "Aplication\\UseCase\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:23:37.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Program.cs",
+              "RelativeDocumentMoniker": "TP1-ORM-Piaggio_Florencia\\Program.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Program.cs",
+              "RelativeToolTip": "TP1-ORM-Piaggio_Florencia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:40.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Requests\\CreateProjectRequest.cs",
+              "RelativeDocumentMoniker": "Aplication\\Dtos\\Requests\\CreateProjectRequest.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Requests\\CreateProjectRequest.cs",
+              "RelativeToolTip": "Aplication\\Dtos\\Requests\\CreateProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:32.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\UsersResponse.cs",
+              "RelativeDocumentMoniker": "Aplication\\Dtos\\Responses\\UsersResponse.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\UsersResponse.cs",
+              "RelativeToolTip": "Aplication\\Dtos\\Responses\\UsersResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:53.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\ProjectTypeService.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCase\\ProjectTypeService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\ProjectTypeService.cs",
+              "RelativeToolTip": "Aplication\\UseCase\\ProjectTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:23:02.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProjectTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IProjectTypeService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Services\\IProjectTypeService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IProjectTypeService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Services\\IProjectTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:27:00.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AreaService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\AreaService.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCase\\AreaService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\AreaService.cs",
+              "RelativeToolTip": "Aplication\\UseCase\\AreaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:21:04.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAreaService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IAreaService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Services\\IAreaService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IAreaService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Services\\IAreaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:25:37.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApprovalStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\ApprovalStatusService.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCase\\ApprovalStatusService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\ApprovalStatusService.cs",
+              "RelativeToolTip": "Aplication\\UseCase\\ApprovalStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:20:03.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApproverRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\ApproverRoleService.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCase\\ApproverRoleService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\UseCase\\ApproverRoleService.cs",
+              "RelativeToolTip": "Aplication\\UseCase\\ApproverRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:20:43.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProjectProposalService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IProjectProposalService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Services\\IProjectProposalService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IProjectProposalService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Services\\IProjectProposalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:26:38.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IApproverRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IApproverRoleService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Services\\IApproverRoleService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IApproverRoleService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Services\\IApproverRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:25:21.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IApprovalStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IApprovalStatusService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Services\\IApprovalStatusService.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Services\\IApprovalStatusService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Services\\IApprovalStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:24:59.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITransaction.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\ITransaction.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\ITransaction.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\ITransaction.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\ITransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:27:46.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProjectApprovalStepCommand.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Commands\\IProjectApprovalStepCommand.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Commands\\IProjectApprovalStepCommand.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Commands\\IProjectApprovalStepCommand.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Commands\\IProjectApprovalStepCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:54:59.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TP1-ORM-Piaggio_Florencia\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TP1-ORM-Piaggio_Florencia\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T23:53:35.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TP1-ORM-Piaggio_Florencia\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\appsettings.Development.json",
+              "RelativeToolTip": "TP1-ORM-Piaggio_Florencia\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T22:41:50.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\appsettings.json",
+              "RelativeDocumentMoniker": "TP1-ORM-Piaggio_Florencia\\appsettings.json",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\appsettings.json",
+              "RelativeToolTip": "TP1-ORM-Piaggio_Florencia\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T00:08:30.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectProposalQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ProjectProposalQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Querys\\ProjectProposalQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ProjectProposalQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Querys\\ProjectProposalQuery.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:51:59.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApprovalStepResponse.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\ApprovalStepResponse.cs",
+              "RelativeDocumentMoniker": "Aplication\\Dtos\\Responses\\ApprovalStepResponse.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\ApprovalStepResponse.cs",
+              "RelativeToolTip": "Aplication\\Dtos\\Responses\\ApprovalStepResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABhwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:26.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProjectResponse.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\ProjectResponse.cs",
+              "RelativeDocumentMoniker": "Aplication\\Dtos\\Responses\\ProjectResponse.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\ProjectResponse.cs",
+              "RelativeToolTip": "Aplication\\Dtos\\Responses\\ProjectResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:41.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProjectProposalQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IProjectProposalQuery.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Querys\\IProjectProposalQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IProjectProposalQuery.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Querys\\IProjectProposalQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:56:41.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateProjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Requests\\UpdateProjectRequest.cs",
+              "RelativeDocumentMoniker": "Aplication\\Dtos\\Requests\\UpdateProjectRequest.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Requests\\UpdateProjectRequest.cs",
+              "RelativeToolTip": "Aplication\\Dtos\\Requests\\UpdateProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:49.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateStepRequest.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Requests\\UpdateStepRequest.cs",
+              "RelativeDocumentMoniker": "Aplication\\Dtos\\Requests\\UpdateStepRequest.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Requests\\UpdateStepRequest.cs",
+              "RelativeToolTip": "Aplication\\Dtos\\Requests\\UpdateStepRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:51.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProjectShortResponse.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\ProjectShortResponse.cs",
+              "RelativeDocumentMoniker": "Aplication\\Dtos\\Responses\\ProjectShortResponse.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\ProjectShortResponse.cs",
+              "RelativeToolTip": "Aplication\\Dtos\\Responses\\ProjectShortResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:42.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "Aplication\\Dtos\\Responses\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\GenericResponse.cs",
+              "RelativeToolTip": "Aplication\\Dtos\\Responses\\GenericResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:33.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProjectApprovalStep.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Domain\\Entities\\ProjectApprovalStep.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ProjectApprovalStep.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Domain\\Entities\\ProjectApprovalStep.cs",
+              "RelativeToolTip": "Domain\\Entities\\ProjectApprovalStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T00:46:18.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\UnitOfWork.cs",
+              "RelativeToolTip": "Infraestructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:48:48.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProjectProposal.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Domain\\Entities\\ProjectProposal.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ProjectProposal.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Domain\\Entities\\ProjectProposal.cs",
+              "RelativeToolTip": "Domain\\Entities\\ProjectProposal.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:29:41.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EfCoreTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\EfCoreTransaction.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\EfCoreTransaction.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\EfCoreTransaction.cs",
+              "RelativeToolTip": "Infraestructure\\EfCoreTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:48:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "XMLFile.xml",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\XMLFile.xml",
+              "RelativeDocumentMoniker": "TP1-ORM-Piaggio_Florencia\\XMLFile.xml",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\XMLFile.xml",
+              "RelativeToolTip": "TP1-ORM-Piaggio_Florencia\\XMLFile.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-28T22:41:39.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TP1-ORM-Piaggio_Florencia\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\WeatherForecast.cs",
+              "RelativeToolTip": "TP1-ORM-Piaggio_Florencia\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T22:41:32.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProjectApprovalStepQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ProjectApprovalStepQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Querys\\ProjectApprovalStepQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ProjectApprovalStepQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Querys\\ProjectApprovalStepQuery.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAIBpwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:51:39.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InformationController.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Controllers\\InformationController.cs",
+              "RelativeDocumentMoniker": "TP1-ORM-Piaggio_Florencia\\Controllers\\InformationController.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Controllers\\InformationController.cs",
+              "RelativeToolTip": "TP1-ORM-Piaggio_Florencia\\Controllers\\InformationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:21:27.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectProposalCommand.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Command\\ProjectProposalCommand.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Command\\ProjectProposalCommand.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Command\\ProjectProposalCommand.cs",
+              "RelativeToolTip": "Infraestructure\\Command\\ProjectProposalCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:53:58.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProjectApprovalStepCommand.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Command\\ProjectApprovalStepCommand.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Command\\ProjectApprovalStepCommand.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Command\\ProjectApprovalStepCommand.cs",
+              "RelativeToolTip": "Infraestructure\\Command\\ProjectApprovalStepCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBlwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:53:40.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "..cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Persistence\\..cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistence\\..cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Persistence\\..cs",
+              "RelativeToolTip": "Infraestructure\\Persistence\\..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T00:34:46.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApprovalStatus.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Domain\\Entities\\ApprovalStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ApprovalStatus.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Domain\\Entities\\ApprovalStatus.cs",
+              "RelativeToolTip": "Domain\\Entities\\ApprovalStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T00:44:38.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TP1-ORM-Piaggio_Florencia.http",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.http",
+              "RelativeDocumentMoniker": "TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.http",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.http",
+              "RelativeToolTip": "TP1-ORM-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia.http",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-01T23:53:45.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\CustomExceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Aplication\\CustomExceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\CustomExceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Aplication\\CustomExceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:37.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\CustomExceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "Aplication\\CustomExceptions\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\CustomExceptions\\ConflictException.cs",
+              "RelativeToolTip": "Aplication\\CustomExceptions\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:30.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\CustomExceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Aplication\\CustomExceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\CustomExceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Aplication\\CustomExceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:29.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApiErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\ApiErrorResponse.cs",
+              "RelativeDocumentMoniker": "Aplication\\Dtos\\Responses\\ApiErrorResponse.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Dtos\\Responses\\ApiErrorResponse.cs",
+              "RelativeToolTip": "Aplication\\Dtos\\Responses\\ApiErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:53:23.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Aplication.csproj",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Aplication.csproj",
+              "RelativeDocumentMoniker": "Aplication\\Aplication.csproj",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Aplication.csproj",
+              "RelativeToolTip": "Aplication\\Aplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T22:17:23.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250518050442_init.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Migrations\\20250518050442_init.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20250518050442_init.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Migrations\\20250518050442_init.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20250518050442_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:14:17.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IUserQuery.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Querys\\IUserQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IUserQuery.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Querys\\IUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:57:08.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IProjectTypeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IProjectTypeQuery.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Querys\\IProjectTypeQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IProjectTypeQuery.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Querys\\IProjectTypeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:56:54.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IProjectApprovalStepQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IProjectApprovalStepQuery.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Querys\\IProjectApprovalStepQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IProjectApprovalStepQuery.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Querys\\IProjectApprovalStepQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:56:28.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IAreaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IAreaQuery.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Querys\\IAreaQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IAreaQuery.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Querys\\IAreaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:56:14.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IApproverRoleQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IApproverRoleQuery.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Querys\\IApproverRoleQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IApproverRoleQuery.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Querys\\IApproverRoleQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:56:01.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IApprovalStatusQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IApprovalStatusQuery.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Querys\\IApprovalStatusQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IApprovalStatusQuery.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Querys\\IApprovalStatusQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:55:48.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IApprovalRuleQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IApprovalRuleQuery.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Querys\\IApprovalRuleQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Querys\\IApprovalRuleQuery.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Querys\\IApprovalRuleQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:55:33.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IProjectProjectProposalCommand.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Commands\\IProjectProjectProposalCommand.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\Commands\\IProjectProjectProposalCommand.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\Commands\\IProjectProjectProposalCommand.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\Commands\\IProjectProjectProposalCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:55:12.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\UserQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Querys\\UserQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\UserQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Querys\\UserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:53:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProjectTypeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ProjectTypeQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Querys\\ProjectTypeQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ProjectTypeQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Querys\\ProjectTypeQuery.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:52:20.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AreaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\AreaQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Querys\\AreaQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\AreaQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Querys\\AreaQuery.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:51:21.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ApproverRoleQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ApproverRoleQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Querys\\ApproverRoleQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ApproverRoleQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Querys\\ApproverRoleQuery.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:51:04.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ApprovalStatusQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ApprovalStatusQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Querys\\ApprovalStatusQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ApprovalStatusQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Querys\\ApprovalStatusQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:50:40.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ApprovalRuleQuery.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ApprovalRuleQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Querys\\ApprovalRuleQuery.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Infraestructure\\Querys\\ApprovalRuleQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Querys\\ApprovalRuleQuery.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:50:23.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\piagg\\Downloads\\Trabajo Proyecto Software\\Reentrega-TP2 (1)\\TP1-Piaggio_Florencia\\TP1-Piaggio_Florencia\\TP1-ORM-Piaggio_Florencia\\Aplication\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:28:01.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

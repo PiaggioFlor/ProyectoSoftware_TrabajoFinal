@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gestión de Proyectos</title>
+
+  <!-- ESTILOS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+  
+<body>
+  <!-- LOGIN (se carga cuando no hay sesión) -->
+  <div id="loginView"></div>
+
+  <!-- APLICACIÓN (se carga cuando hay sesión) -->
+  <div id="appView" style="display: none;">
+    <!-- NAVBAR -->
+    <div id="navbarView"></div>
+
+    <!-- CONTENIDO DINÁMICO -->
+    <div id="contentView">
+      <!-- Aquí se cargan las diferentes vistas -->
+    </div>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  
+  <!-- JavaScript Modules en ORDEN CORRECTO -->
+  <script src="js/config.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/mapper.js"></script>
+  <script src="js/htmlLoader.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/projects.js"></script>
+  <script src="js/auth.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

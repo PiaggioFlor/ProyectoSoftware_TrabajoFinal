@@ -1,0 +1,7 @@
+@TP1_ORM_Piaggio_Florencia_HostAddress = http://localhost:5032
+
+GET {{TP1_ORM_Piaggio_Florencia_HostAddress}}/weatherforecast/
+Accept: 
+/json
+
+###

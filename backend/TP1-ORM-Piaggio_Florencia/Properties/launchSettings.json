@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "TP1-ORM-Piaggio_Florencia": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61773;http://localhost:61774"
+    }
+  }
+}

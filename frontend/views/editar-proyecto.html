@@ -1,0 +1,93 @@
+<!-- views/editar-proyecto.html -->
+<div class="container mt-4">
+  <div class="card p-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+      <h4 class="mb-0">
+        <i class="bi bi-pencil"></i> Editar Proyecto
+      </h4>
+      <button class="btn btn-secondary btn-action" onclick="volverADetalle()">
+        <i class="bi bi-arrow-left"></i> Volver
+      </button>
+    </div>
+
+    <div class="alert alert-warning">
+      <strong><i class="bi bi-info-circle"></i> Nota:</strong> Está editando un proyecto observado. 
+      Solo puede modificar: <strong>título, descripción y duración</strong>.
+    </div>
+
+    <form id="formEditarProyecto" onsubmit="event.preventDefault(); guardarCambiosProyecto();">
+      
+      <div class="mb-3">
+        <label for="inputTitulo" class="form-label">
+          Título del Proyecto *
+        </label>
+        <input type="text" id="inputTitulo" class="form-control" required 
+               placeholder="Ingrese el título del proyecto"/>
+        <small class="text-muted">Valor actual cargado automáticamente</small>
+      </div>
+
+      <div class="mb-3">
+        <label for="inputDescripcion" class="form-label">
+          Descripción *
+        </label>
+        <textarea id="inputDescripcion" class="form-control" rows="4" required
+                  placeholder="Describa el proyecto"></textarea>
+        <small class="text-muted">Valor actual cargado automáticamente</small>
+      </div>
+
+      <div class="mb-3">
+        <label for="inputDuracion" class="form-label">
+          Duración Estimada (días) *
+        </label>
+        <input type="number" id="inputDuracion" class="form-control" required 
+               placeholder="Ej: 30" min="1"/>
+        <small class="text-muted">Valor actual cargado automáticamente</small>
+      </div>
+
+      <div class="alert alert-info">
+        <small>
+          <i class="bi bi-lock"></i> <strong>Campos bloqueados:</strong> 
+          Área, Tipo de Proyecto y Monto no pueden ser modificados en proyectos observados.
+        </small>
+      </div>
+
+      <div class="d-flex gap-md">
+        <button type="submit" class="btn btn-success btn-action">
+          <i class="bi bi-check-circle"></i> Guardar Cambios
+        </button>
+        <button type="button" class="btn btn-secondary btn-action" onclick="volverADetalle()">
+          <i class="bi bi-x-circle"></i> Cancelar
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<script>
+(function() {
+  console.log(">>> Ejecutando script de editar-proyecto");
+  
+  setTimeout(function() {
+    console.log(">>> Cargando datos para edición...");
+    
+    const proyectoData = JSON.parse(localStorage.getItem('proyectoEditando') || '{}');
+    
+    console.log("Datos para editar:", proyectoData);
+    
+    if (proyectoData.titulo) {
+      document.getElementById("inputTitulo").value = proyectoData.titulo;
+      document.getElementById("inputDescripcion").value = proyectoData.descripcion;
+      document.getElementById("inputDuracion").value = proyectoData.duracion;
+      
+      console.log("✓ Valores cargados en el formulario");
+    } else {
+      console.warn("⚠️ No hay datos para editar");
+      alert("No se encontraron datos del proyecto para editar");
+    }
+  }, 100);
+})();
+
+function volverADetalle() {
+  cargarVista('detalle-proyecto');
+}
+</script>

@@ -1,0 +1,110 @@
+<!-- views/crear-proyecto.html -->
+<div class="container mt-5">
+  <div class="card p-4" style="max-width: 700px; margin: 0 auto;">
+    <h4 class="mb-4" style="color: var(--color-naranja); text-transform: uppercase;">
+      <i class="bi bi-plus-circle"></i> Nuevo Proyecto
+    </h4>
+
+    <form id="formCrearProyecto" onsubmit="event.preventDefault(); manejarCrearProyecto();">
+      <div class="row">
+
+        <!-- TÍTULO -->
+        <div class="col-12 mb-4">
+          <label for="tituloProyecto" class="form-label">Título del Proyecto *</label>
+          <input 
+            type="text" 
+            class="form-control" 
+            id="tituloProyecto"
+            placeholder="Ingrese el título del proyecto"
+            required
+          >
+        </div>
+
+        <!-- DESCRIPCIÓN -->
+        <div class="col-12 mb-4">
+          <label for="descripcionProyecto" class="form-label">Descripción *</label>
+          <textarea 
+            class="form-control" 
+            id="descripcionProyecto"
+            rows="4"
+            placeholder="Describe brevemente el proyecto"
+            required
+          ></textarea>
+        </div>
+
+        <!-- ÁREA -->
+        <div class="col-md-6 mb-4">
+          <label for="areaProyecto" class="form-label">Área *</label>
+          <select 
+            class="form-select" 
+            id="areaProyecto"
+            required
+          >
+            <option value="">Seleccionar área</option>
+          </select>
+        </div>
+
+        <!-- TIPO -->
+        <div class="col-md-6 mb-4">
+          <label for="tipoProyecto" class="form-label">Tipo *</label>
+          <select 
+            class="form-select" 
+            id="tipoProyecto"
+            required
+          >
+            <option value="">Seleccionar tipo</option>
+          </select>
+        </div>
+
+        <!-- MONTO -->
+        <div class="col-md-6 mb-4">
+          <label for="montoEstimado" class="form-label">Monto Estimado ($) *</label>
+          <input 
+            type="number" 
+            class="form-control" 
+            id="montoEstimado"
+            placeholder="50000"
+            step="0.01"
+            required
+          >
+        </div>
+
+        <!-- DURACIÓN -->
+        <div class="col-md-6 mb-4">
+          <label for="duracionEstimada" class="form-label">Duración (días) *</label>
+          <input 
+            type="number" 
+            class="form-control" 
+            id="duracionEstimada"
+            placeholder="30"
+            min="1"
+            required
+          >
+        </div>
+
+      </div>
+
+      <div class="d-flex justify-content-between mt-4">
+        <button type="button" class="btn btn-secondary" onclick="cargarVista('bienvenida')" 
+                style="min-width: 120px; max-width: 150px;">
+          <i class="bi bi-x-circle"></i> Cancelar
+        </button>
+        <button type="submit" class="btn btn-naranja" style="min-width: 140px; max-width: 180px;">
+          <i class="bi bi-save"></i> Guardar
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<script>
+(function() {
+  console.log(">>> Ejecutando script de crear-proyecto");
+  
+  setTimeout(function() {
+    console.log(">>> Cargando combos...");
+    cargarComboAreas('areaProyecto');
+    cargarComboTiposProyecto('tipoProyecto');
+  }, 100);
+})();
+</script>

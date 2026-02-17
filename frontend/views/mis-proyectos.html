@@ -1,0 +1,62 @@
+<!-- views/mis-proyectos.html -->
+<div class="container mt-4">
+  <h3 class="text-white mb-4">Mis Proyectos</h3>
+  
+  <!-- FILTROS DE BÚSQUEDA --> 
+  <div class="card p-3 mb-4 bg-gris-suave">
+    <div class="row g-3">
+      <div class="col-md-5">
+        <label for="filtroTitulo" class="form-label">Buscar por título</label>
+        <input type="text" id="filtroTitulo" class="form-control" placeholder="Título del proyecto..." />
+      </div>
+      <div class="col-md-4">
+        <label for="filtroEstado" class="form-label">Estado</label>
+        <select id="filtroEstado" class="form-select">
+          <option value="">Todos los estados</option>
+        </select>
+      </div>
+      <div class="col-md-3 d-flex align-items-end">
+        <button class="btn btn-naranja w-100" onclick="cargarProyectos()">
+          <i class="bi bi-search"></i> Buscar
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- LISTADO DE PROYECTOS -->
+  <div id="proyectosContainer" class="row g-3">
+    <!-- Se llena dinámicamente con cards mejoradas -->
+  </div>
+</div>
+
+<script>
+// CORRECCIÓN: Ejecutar inmediatamente cuando el HTML se inserta
+(function() {
+  console.log(">>> Ejecutando script de mis-proyectos");
+  
+  // Esperar un momento para asegurar que el DOM está listo
+  setTimeout(function() {
+    console.log(">>> Cargando estados y proyectos...");
+    
+    // Cargar estados en el filtro
+    obtenerEstadosAprobacion();
+    
+    // Cargar proyectos
+    cargarProyectos();
+    
+    // Event listeners para filtros
+    const filtroTitulo = document.getElementById('filtroTitulo');
+    const filtroEstado = document.getElementById('filtroEstado');
+    
+    if (filtroTitulo) {
+      filtroTitulo.addEventListener('input', debounce(() => {
+        cargarProyectos();
+      }, 500));
+    }
+    
+    if (filtroEstado) {
+      filtroEstado.addEventListener('change', cargarProyectos);
+    }
+  }, 100);
+})();
+</script>

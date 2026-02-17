@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TP1-ORM-Piaggio_Florencia.props" />
+</Project>

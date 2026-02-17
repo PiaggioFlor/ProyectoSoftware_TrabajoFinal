@@ -1,0 +1,75 @@
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.deps.json
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.dll
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.dll
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.pdb
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.dll
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP1\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.deps.json
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.dll
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.dll
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.pdb
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.dll
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\OneDrive\Documentos\Ing Informatica\Proyecto Software\Trabajo individual TP2\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.deps.json
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.dll
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.dll
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.pdb
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.dll
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\OneDrive\Escritorio\TP1-ORM-Piaggio_Florencia (2)\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.deps.json
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.dll
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.dll
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.pdb
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.dll
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\Downloads\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.deps.json
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.dll
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.dll
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\bin\Debug\net8.0\Domain.pdb
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.dll
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\Aplication.pdb
+C:\Users\piagg\Downloads\Trabajo Proyecto Software\Reentrega-TP2 (1)\TP1-Piaggio_Florencia\TP1-Piaggio_Florencia\TP1-ORM-Piaggio_Florencia\Aplication\obj\Debug\net8.0\ref\Aplication.dll

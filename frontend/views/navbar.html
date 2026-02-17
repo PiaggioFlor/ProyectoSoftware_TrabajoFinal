@@ -1,0 +1,23 @@
+<!-- views/navbar.html -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 shadow-sm">
+  <a class="navbar-brand" href="#" onclick="cargarVista('bienvenida')">
+    <img src="img/logo3.png" alt="Logo" width="120">
+  </a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav me-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="#" onclick="cargarVista('crear-proyecto')">Crear Proyecto</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" onclick="cargarVista('mis-proyectos')">Mis Proyectos</a>
+      </li>
+    </ul>
+    <span class="text-white me-3" id="nombreUsuario"></span>
+    <button class="btn btn-rojo" onclick="cerrarSesion()" style="border-radius: 8px;">
+      <i class="bi bi-box-arrow-right"></i> Cerrar Sesión
+    </button>
+  </div>
+</nav>
